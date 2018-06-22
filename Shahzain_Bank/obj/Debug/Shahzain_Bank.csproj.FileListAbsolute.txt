@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\bin\Debug\Shahzain_Bank.exe.config
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\bin\Debug\Shahzain_Bank.exe
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\bin\Debug\Shahzain_Bank.pdb
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\obj\Debug\Shahzain_Bank.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\obj\Debug\Shahzain_Bank.Form1.resources
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\obj\Debug\Shahzain_Bank.Properties.Resources.resources
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\obj\Debug\Shahzain_Bank.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\obj\Debug\Shahzain_Bank.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\obj\Debug\Shahzain_Bank.exe
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\obj\Debug\Shahzain_Bank.pdb
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\obj\Debug\Shahzain_Bank.Add_dc.resources
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\obj\Debug\Shahzain_Bank.Banks.resources
+C:\Users\admin\source\repos\Shahzain_Bank\Shahzain_Bank\obj\Debug\Shahzain_Bank.Form2.resources
